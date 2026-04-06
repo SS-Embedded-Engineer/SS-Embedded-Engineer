@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SS-Embedded-Engineer&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-alpha-three-12.vercel.app/api/top-langs/?username=SS-Embedded-Engineer&layout=compact&theme=vision-friendly-dark)
